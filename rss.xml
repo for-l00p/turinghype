@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TuringHype]]></title>
         <description><![CDATA[TuringHype]]></description>
-        <link>https://thegrid.ai/turinghype/</link>
+        <link>http://www.turinghype.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 01:30:38 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/turinghype/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 02:26:41 GMT</lastBuildDate>
+        <atom:link href="http://www.turinghype.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TensorFlow - Google's latest machine learning system, open sourced for everyone]]></title>
+            <description><![CDATA[<article><h1>TensorFlow - Google's latest machine learning system, open sourced for everyone</h1><p>Deep Learning has had a huge impact on computer science, making it possible to explore new frontiers of research and to develop amazingly useful products that millions of people use every day. Our internal deep learning infrastructure DistBelief, developed in 2011, has allowed Googlers to build ever larger neural networks and scale training to thousands of cores in our datacenters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf6b3d09a07b69cbe6bf3e0f5a7a9a3a/croprotate.png?cropheight=303&cropwidth=370&degrees=0&input=http%3A%2F%2F3.bp.blogspot.com%2F-BQbmDNT8luQ%2FVj8g5HRTy9I%2FAAAAAAAAAyY%2ForX27i0y3Qk%2Fs400%2Fimage00.png&x=15&y=15"></article>]]></description>
+            <link>http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html</link>
+            <guid isPermaLink="false">15fe659e-6e91-46f4-b612-1a520dcf3b27</guid>
+            <pubDate>Fri, 04 Mar 2016 02:26:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Machine Learning]]></title>
-            <description><![CDATA[<article><h1>Machine Learning</h1><p>Machine Learning is a term coined by Arthur Samuel that describes the process by which computers learn without being explicitly programmed (conditional logic and what have you). This process is something that has existed for many years now but is just starting to hit mainstream media as technology companies have more recently started to produce consumer facing tools. The power of distributed computing also has accelerated the capibilities of machine learning. Additionally hardware is now able to support faster computations and hard drives are now able to store significantly more data in a smaller form factor. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8201ecd8-a082-4ce5-b82e-5521e8f37424.png"></article>]]></description>
-            <link>https://thegrid.ai/turinghype/machine-learning/index.html</link>
+            <description><![CDATA[<article><h1>Machine Learning</h1><p>Machine Learning is a term coined by Arthur Samuel that describes the process by which computers learn without being explicitly programmed (conditional logic and what have you). This process is something that has existed for many years now but is just starting to hit mainstream media as technology companies have more recently started to produce consumer facing tools. The power of distributed computing also has accelerated the capibilities of machine learning. Additionally hardware is now able to support faster computations and hard drives are now able to store significantly more data in a smaller form factor. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4836e96be1b635822f3a7ff18fb6ac87ebd824b.png"></article>]]></description>
+            <link>http://www.turinghype.com/machine-learning/index.html</link>
             <guid isPermaLink="false">b5a19473-26a7-436b-8377-801f0aaffe1d</guid>
             <pubDate>Fri, 04 Mar 2016 01:28:29 GMT</pubDate>
         </item>
