@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TuringHype]]></title>
         <description><![CDATA[TuringHype]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/turinghype/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 01:27:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 01:30:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/turinghype/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Machine Learning]]></title>
-            <description><![CDATA[<article><h1>Machine Learning</h1><p>Machine Learning is a term coined by Arthur Samuel that describes the process by which computers learn without being explicitly programmed (conditional logic and what have you). This process is something that has existed for many years now but is just starting to hit mainstream media as technology companies have more recently started to produce consumer facing tools. The power of distributed computing also has accelerated the capibilities of machine learning. Additionally hardware is now able to support faster computations and hard drives are now able to store significantly more data in a smaller form factor. </p></article>]]></description>
-            <link>undefinedmachine-learning/index.html</link>
+            <description><![CDATA[<article><h1>Machine Learning</h1><p>Machine Learning is a term coined by Arthur Samuel that describes the process by which computers learn without being explicitly programmed (conditional logic and what have you). This process is something that has existed for many years now but is just starting to hit mainstream media as technology companies have more recently started to produce consumer facing tools. The power of distributed computing also has accelerated the capibilities of machine learning. Additionally hardware is now able to support faster computations and hard drives are now able to store significantly more data in a smaller form factor. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8201ecd8-a082-4ce5-b82e-5521e8f37424.png"></article>]]></description>
+            <link>https://thegrid.ai/turinghype/machine-learning/index.html</link>
             <guid isPermaLink="false">b5a19473-26a7-436b-8377-801f0aaffe1d</guid>
-            <pubDate>Fri, 04 Mar 2016 01:23:30 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 01:28:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
