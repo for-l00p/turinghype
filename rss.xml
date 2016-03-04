@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TuringHype]]></title>
+        <description><![CDATA[TuringHype]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 01:27:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Machine Learning]]></title>
+            <description><![CDATA[<article><h1>Machine Learning</h1><p>Machine Learning is a term coined by Arthur Samuel that describes the process by which computers learn without being explicitly programmed (conditional logic and what have you). This process is something that has existed for many years now but is just starting to hit mainstream media as technology companies have more recently started to produce consumer facing tools. The power of distributed computing also has accelerated the capibilities of machine learning. Additionally hardware is now able to support faster computations and hard drives are now able to store significantly more data in a smaller form factor. </p></article>]]></description>
+            <link>undefinedmachine-learning/index.html</link>
+            <guid isPermaLink="false">b5a19473-26a7-436b-8377-801f0aaffe1d</guid>
+            <pubDate>Fri, 04 Mar 2016 01:23:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
